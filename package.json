@@ -1,0 +1,17 @@
+{
+  "name": "tool-dfuutil",
+  "version": "1.11.0-arduino5",
+  "description": "Device Firmware Upgrade Utilities",
+  "keywords": [
+    "tools",
+    "uploader",
+    "dfu"
+  ],
+  "homepage": "http://dfu-util.sourceforge.net/",
+  "license": "GPL-2.0-or-later",
+  "systems": "all",
+  "repository": {
+    "type": "git",
+    "url": "https://sourceforge.net/p/dfu-util/dfu-util/ci/master/tree/"
+  }
+}
